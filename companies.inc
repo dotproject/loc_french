@@ -9,7 +9,7 @@
 "Company Owner"=>"Propriétaire de la société",
 "Company deleted"=>"Société supprimée",
 "Company inserted"=>"Société insérrée",
-"Company updated"=>"Société mise &#224; jour",
+"Company updated"=>"Société mise à jour",
 "Edit Company"=>"Editer la société",
 "Invalid Company ID"=>"Identifiant de société invalide",
 "No companies available"=>"Pas de société disponible",
