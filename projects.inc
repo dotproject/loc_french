@@ -83,7 +83,7 @@
 "inserted"=>"Inséré",
 "new project"=>"nouveau projet",
 "new task"=>"nouvelle tâche",
-"noCompanies"=>"Merci de créer une entreprise en premier.",
+"noCompanies"=>"Merci de créer une société en premier.",
 "noDeleteRecord"=>"Suppression impossible: dépendances!",
 "projects list"=>"liste des projets",
 "projectsBadCompany"=>"Merci de sélectionner une société.",
