@@ -1,0 +1,22 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Add Company"=>"Ajouter une société",
+"Budget"=>"Budget",
+"Company Name"=>"Nom de la société",
+"Company Owner"=>"Propriétaire de la société",
+"Company deleted"=>"Société supprimée",
+"Company inserted"=>"Société insérrée",
+"Company updated"=>"Société mis a jour",
+"Edit Company"=>"Editer la société",
+"Started"=>"Demarré",
+"Status"=>"statuts",
+"View Company/Client"=>"vue société/client",
+"company list"=>"liste des sociétés",
+"companyDelete"=>"Etes vous sur de vouloir supprimer cette société ?",
+"companyValidName"=>"Merci d'entrer un nom de société valide.",
+"companyWelcome"=>"<b> Bienvenue %s.</b>  Cette page montre la liste des clients et de leur projects actifs",
+"delete company"=>"effacer une société",
+"edit this company"=>"editer une société",
+"new company"=>"nouvelle société",
+"view this company"=>"voir cette société",

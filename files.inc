@@ -1,0 +1,22 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Date"=>"Date",
+"Edit File"=>"Editer un fichier",
+"File Management"=>"Gestion de fichier",
+"File Name"=>"Nom de fichier",
+"File deleted"=>"Effacer le fichier",
+"File inserted"=>"Inserer un fichier",
+"File updated"=>"Fichier mis a jour",
+"New File"=>"Nouveau fichier",
+"Size"=>"Taille",
+"Type"=>"Type",
+"Upload File"=>"Charger un fichier",
+"Uploaded By"=>"Charger par",
+"Version"=>"Version",
+"add new file"=>"Ajouter un fichier",
+"delete file"=>"Suppreimer un fichier",
+"download"=>"Telecharger",
+"fileIdError"=>"Un Handle de fichier invalide est passé à la fonction",
+"files list"=>"liste de fichiers",
+"filesDelete"=>"Etes vous sure de vouloir supprimer ce fichier",

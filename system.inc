@@ -1,0 +1,21 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Abbreviation"=>"Abréviation",
+"Date and Time"=>"Date & Heure",
+"Default"=>"Défaut",
+"Default User Preferences"=>"Preférence par défaut",
+"Language"=>"Langue",
+"Language Support"=>"Support De Langue",
+"Locale"=>"local",
+"Locales file saved"=>"Fichier local sauvé",
+"Module"=>"Module",
+"Preferences"=>"Préférences",
+"Short Date Format"=>"Format de date court",
+"String"=>"Chaine ",
+"System Administration"=>"Administration Systeme",
+"Tabbed Box View"=>"",
+"Time Format"=>"Format de l'Heure",
+"Translation Management"=>"Gestion de la traduction",
+"User Interface Style"=>"Style de l'interface utilisateur",
+"User Preferences"=>"Préférence utilisateur",
